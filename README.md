@@ -44,7 +44,7 @@ Start the App
 ## Guide To WebApp
 You have chosse the dataset
 # 
-![App Screenshot](https://raw.githubusercontent.com/biltudey/ML_app/main/screenshots/Screenshot1.png)
+![App Screenshot](https://raw.githubusercontent.com/biltudey/ML_app/main/screenshots/Screenshot.png)
 # 
 You can plot different columns
 # 
