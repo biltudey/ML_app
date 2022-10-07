@@ -5,11 +5,13 @@
 ## Installation
 
 To run this app you need have the following Libary
+```bash
+   pip install conda
+```
 
 ```bash
   pip install streamlit
-  pip install conda
-
+ 
 ```
     
 ## Run Locally
