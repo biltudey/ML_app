@@ -46,10 +46,11 @@ def EDA():
 
             df1 = df[selected_columns]
             st.dataframe(df1)  
-        if st.checkbox('Describe'):
-            st.write(df1.describe().T)  
-        if st.checkbox('Display Correlation of data variuos columns'):
-            st.write(df.corr()) 
+            if st.checkbox('Describe'):
+                     
+                 st.write(df1.describe().T)  
+            if st.checkbox('Display Correlation of data variuos columns'):
+                 st.write(df.corr()) 
 def viualization():
     c =0
     st.subheader('Exploratory Data Analysis')
